@@ -15,6 +15,7 @@ export default function NavigationBar() {
     <Text style={styles.brand}>MoonSafe</Text>
   </View>
 
+
       {/* RIGHT */}
       <View style={styles.rightSection}>
         <TouchableOpacity style={styles.iconBtn}>
